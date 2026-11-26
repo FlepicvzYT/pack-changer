@@ -1,13 +1,9 @@
-**PACK SWITCHER for 26.2**
+# Pack Switcher
 
-This mod allows you to switch texture packs in style, with a clean menu, swap texture packs easily, and combine textures from other texture packs!
+## Setup
 
-**REQUIREMENTS**
-Fabric Loader
-Fabric API
-Minecraft 26.2
+For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
 
-**OTHER USEFUL INFO**
-Licensed under MIT. Credit the author if you share or modify it.
+## License
 
-PRESS K TO OPEN THE MENU
+This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
